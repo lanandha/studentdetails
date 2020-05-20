@@ -1,0 +1,41 @@
+
+.search-result li {
+  border-bottom: 2px solid rgb(218, 84, 84);
+  border-left: 2px solid rgb(59, 25, 25);
+  border-right: 2px solid rgb(196, 116, 116);
+  width: 250px;
+  height: 29px;
+  padding: 7px;
+  background-color: rgb(84, 15, 161);
+  cursor: pointer;
+  list-style-type: none;
+}
+
+.search-result li:hover {
+  background-color: rgb(27, 23, 27);
+}
+
+.search-result li a {
+  color: #888;
+  display: block;
+  text-decoration: none;
+}
+
+.search-result li a:hover {
+  color: white;
+}
+.search-result li a:active {
+  color: white;
+}
+#search-box {
+  width: 200px;
+  height: 20px;
+}
+
+
+ul.search-result {
+  margin-top: 0;
+  padding-left: 0;
+}
+
+

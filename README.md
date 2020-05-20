@@ -1,2 +1,2 @@
-# studentdetails
- angular-node js -mongodb
+# StudentDetails
+ angular-node js-mongoDb
